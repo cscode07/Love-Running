@@ -97,6 +97,7 @@ main {
     background-color: lightblue;
 /* to push footer to bottom of page */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 
